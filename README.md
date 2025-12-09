@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **tanmay.ahuja71@gmail.com**
 
--Portfolio: https://tanmay-ahuja-portfolio.vercel.app/
   
 - ⚡ Fun fact **I am Pro Gamer**
 
